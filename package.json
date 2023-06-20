@@ -1,0 +1,28 @@
+{
+  "name": "flero",
+  "version": "0.0.0",
+  "description": "Effortless Library Fusion",
+  "type": "module",
+  "bin": {
+    "flero": "./bin/flero.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "integration",
+    "automation",
+    "tool",
+    "cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manan-m-shah/flero.git"
+  },
+  "author": "Manan Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manan-m-shah/flero/issues"
+  },
+  "homepage": "https://github.com/manan-m-shah/flero#readme"
+}
